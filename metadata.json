@@ -1,0 +1,6 @@
+{
+  "name": "Rockstar Games Hub",
+  "description": "Una web interactiva dedicada a Rockstar Games, con información exclusiva y los tráilers y detalles de sus mayores juegos como GTA V, GTA VI y RDR2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
